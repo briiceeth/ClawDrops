@@ -1,4 +1,6 @@
-# ClawDrops
+
+<img width="512" height="512" alt="app-logo" src="https://github.com/user-attachments/assets/b1ac4717-e55d-41e9-99c4-ff28485b1640" />
+
 ClawDrops is built to turn your daily activity into real value. With our simple Earn Points system and Daily Check-In feature, you can start collecting rewards from day one.
 ## 🚀 Features
 
