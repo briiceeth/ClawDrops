@@ -53,15 +53,21 @@ Unless stated otherwise, projects within the ClawDrops ecosystem follow open-sou
 Please review individual project licenses for specific details.
 
 🔗 Connect
+
 💻 GitHub
+
 https://github.com/briiceeth
 
 Discussions, feedback, and ideas are always welcome.
 
 🤖 ClawDrops
+
 ✅ Open the task
+
 ✅ Complete the action
+
 ✅ Tap “Verify & Claim”
+
 ✅ Points added instantly
 
 Building systems.
